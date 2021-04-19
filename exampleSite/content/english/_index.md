@@ -119,8 +119,7 @@ call_to_action:
   image : "images/cta.svg"
   content : "Brussels, Belgium  <br/> 
     <br/> 
-    ernest.song@gmail.com  <br/> 
-    <br/> 
+    ernest.song@gmail.com  <br/>  
     (+32) 476 60 05 90  <br/> 
     <br/> 
     "
