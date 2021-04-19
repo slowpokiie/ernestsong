@@ -122,7 +122,6 @@ call_to_action:
     <br/> 
     ernest.song@gmail.com  <br/> 
     <br/> 
-    <br/> 
     (+32) 476 60 05 90  <br/> 
     "
   button:
