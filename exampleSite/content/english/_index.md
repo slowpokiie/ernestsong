@@ -125,6 +125,6 @@ call_to_action:
     "
   button:
     enable : true
-    label : "Contact ErnestSong"
+    label : "Contact Us"
     link : "contact"
 ---
