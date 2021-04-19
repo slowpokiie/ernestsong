@@ -2,10 +2,10 @@ footer_left = []
 footer_middle = []
 footer_right = []
 [[main]]
-name = "Home"
-url = "https://ernestsong.netlify.app/"
-weight = ""
-[[main]]
 name = "Contact"
 url = "contact"
 weight = 4
+[[main]]
+name = "Home"
+url = "https://ernestsong.netlify.app/"
+weight = ""
