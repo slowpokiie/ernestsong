@@ -22,6 +22,7 @@ feature:
       content : "We examine what organizations are doing to stay relevant and competitive in this fast-paced world, and which ones are doing it best.
       We then strategize using custom-made tools to help you lead your company in order to understand the implications of every choice our clients can make.  <br/>
       Get in touch to learn more about how this service can help you.<br/>
+      <br/>
       •	Scenario modeling <br/>
       •	Business & Financial plan modeling <br/>
       •	Enterprise valuation <br/>
@@ -33,6 +34,7 @@ feature:
       icon : "fas fa-tachometer-alt"
       content : "With years of experience, we have the capabilities and expertise to take your business to the next level. We combine our insights and skills to transform your         processes and strategies, and in turn, your company.
       We’re proud to help shape and improve how our clients structure and manage their business. <br/>
+      <br/>
       •	Automated reporting <br/>
       •	Financial reporting <br/>
       •	Financial presentations <br/>
@@ -40,8 +42,6 @@ feature:
       •	Budgeting (Actuals vs. planned) <br/>"
       
       
-
-
 ######################### Service #####################
 service:
   enable : true
