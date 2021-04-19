@@ -8,4 +8,4 @@ weight = 4
 [[main]]
 name = "Home"
 url = "https://ernestsong.netlify.app/"
-weight = ""
+weight = "1"
