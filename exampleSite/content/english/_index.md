@@ -21,31 +21,23 @@ feature:
       content : "We examine what organizations are doing to stay relevant and competitive in this fast-paced world, and which ones are doing it best.
       We then strategize using custom-made tools to help you lead your company in order to understand the implications of every choice our clients can make.  <br/>
       Get in touch to learn more about how this service can help you.<br/>
-        •	Scenario modeling <br/>
-        •	Business & Financial plan modeling <br/>
-        •	Enterprise valuation <br/>
-        •	Startup-specific guidance <br/>
-        •	Customer contract reviews"
-      
+      •	Scenario modeling <br/>
+      •	Business & Financial plan modeling <br/>
+      •	Enterprise valuation <br/>
+      •	Startup-specific guidance <br/>
+      •	Customer contract reviews"
+  
     # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Faster Response"
+    - name : "Business Controlling to Ramp-up your Activity"
       icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "With years of experience, we have the capabilities and expertise to take your business to the next level. We combine our insights and skills to transform your         processes and strategies, and in turn, your company.
+      We’re proud to help shape and improve how our clients structure and manage their business. <br/>
+      •	Automated reporting <br/>
+      •	Financial reporting <br/>
+      •	Financial presentations <br/>
+      •	Process Optimization <br/>
+      •	Budgeting (Actuals vs. planned) <br/>"
       
-    # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
 
 
