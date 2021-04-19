@@ -12,7 +12,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Our Approach"
   feature_item:
     # feature item loop
     - name : "Clean Code"
@@ -20,9 +20,18 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Object Oriented"
+    - name : "Business diagnosis at a strategic level"
       icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "We examine what organizations are doing to stay relevant and competitive in this fast-paced world, and which ones are doing it best.
+We then strategize using custom-made tools to help you lead your company in order to understand the implications of every choice our clients can make.
+Get in touch to learn more about how this service can help you.
+•	Financial projection
+•	Scenario modeling
+•	Business & Financial plan modeling
+•	Enterprise valuation
+•	Startup-specific guidance
+•	Customer contract reviews
+"
       
     # feature item loop
     - name : "24h Service"
