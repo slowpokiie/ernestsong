@@ -69,20 +69,26 @@ VINCI Airports is an airport concession holder and operator relying on its exper
         link : ""
         
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "Fundraising business plan"
       images:
       - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Raising up to €10 million  <br/>
+ <br/>
+Raising funds to develop their organization are the main concern for many entrepreneur from start-up to scale-up companies. The strategy and the vision of the founders must be reflected in the Fundraising business plan with the investor mindset, how much will they get back from their investment. This business plan have been design to look and feel efficient and attractive. Clients often approach ERNEST SONG with a general idea of what they need, and this project was no different. We were able to jump right in with our expertise and really helped the company grow and evolve. Today, their business is doing exceptionally well, and we’re proud to have been part of the process."
       button:
         enable : true
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "A company standing different from others"
+    - title : "Business controlling management system"
       images:
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "An Innovative Solution  <br/>
+ <br/>
+Every organization must have an operating system to manage and lead their company. We have the ability to understand any business and financial processes to create a sustainable, focused and effective solution - and then watched it grow. The objective is to empowered your employees by focusing on tasks added-value and let the technology get rid off the recurrent and repetitive tasks.
+
+We have developed a digital solution based on Business Intelligence to generate dynamic standard financial report updated in real-time. The reports are available on the cloud (Browser, mobile or tablet)."
       button:
         enable : true
         label : "Check it out"
