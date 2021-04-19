@@ -3,10 +3,10 @@
 banner:
   title : "About Ernest"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "Ernest Song is a Finance Executive Advisor specializing in Financial modeling and Business controlling. He is a French native with a background in Corporate finance, Auditing, Controlling and is certified from ESCP Business School. Ernest works alongside investors & business owners across all aspect of their developments. Through the pairing of a strong finance and business expertise alongside his high sensitivity in digital and IT sytems, his clients are provided a true, full-service experience from Brussels to Wallonia, Belgium."
   button:
     enable : true
-    label : "Contact With Us"
+    label : "Book a 30-min call"
     link : "contact"
 
 ##################### Feature ##########################
