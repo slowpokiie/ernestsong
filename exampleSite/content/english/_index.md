@@ -14,11 +14,7 @@ feature:
   enable : true
   title : "Our Approach"
   feature_item:
-    # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
+       
     # feature item loop
     - name : "Business diagnosis at a strategic level"
       icon : "fas fa-object-group"
