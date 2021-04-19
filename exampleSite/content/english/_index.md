@@ -16,10 +16,10 @@ feature:
   feature_item:
        
     # feature item loop
-    - name : "Business Diagnosis<br/>At a Strategic Level"
+    - name : "Business Diagnosis <br/> At a Strategic Level"
       icon : "fas fa-object-group"
       content : "We examine what organizations are doing to stay relevant and competitive in this fast-paced world, and which ones are doing it best.
-      We then strategize using custom-made tools to help you lead your company in order to understand the implications of every choice our clients can make.
+      We then strategize using custom-made tools to help you lead your company in order to understand the implications of every choice our clients can make.  <br/>
       Get in touch to learn more about how this service can help you.<br/>
         •	Scenario modeling <br/>
         •	Business & Financial plan modeling <br/>
