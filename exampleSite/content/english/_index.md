@@ -49,12 +49,12 @@ service:
     # service item loop
     - title : "Our Projects"
       images:
-      - "images/service-1.png"
+      - ""
       content : "ERNEST SONG helps all businesses not only reach, but exceed their goals. Our experience helps us lay out a strategy that perfectly fits our clients. This collaboration is essential for the successful transition from strategy, to plan, to action. Learn about some of our past projects below, and get in touch to see what we can do for you."
       button:
-        enable : true
-        label : "Check it out"
-        link : "#"
+        enable : false
+        label : ""
+        link : ""
         
     # service item loop
     - title : "It is a privately owned Information and cyber security company"
