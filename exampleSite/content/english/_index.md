@@ -20,12 +20,11 @@ feature:
       icon : "fas fa-object-group"
       content : "We examine what organizations are doing to stay relevant and competitive in this fast-paced world, and which ones are doing it best.
       We then strategize using custom-made tools to help you lead your company in order to understand the implications of every choice our clients can make.
-      Get in touch to learn more about how this service can help you. <br/>
-        •	Financial projection <br/>
-        •	Scenario modeling <br/>
-        •	Business & Financial plan modeling <br/>
-        •	Enterprise valuation <br/>
-        •	Startup-specific guidance <br/>
+      Get in touch to learn more about how this service can help you.        •	Financial projection
+        •	Scenario modeling
+        •	Business & Financial plan modeling
+        •	Enterprise valuation
+        •	Startup-specific guidance
         •	Customer contract reviews"
       
     # feature item loop
