@@ -61,11 +61,11 @@ service:
       images:
       - "images/service-1.png"
       content : "A success story  <br/>
- <br/>
+<br/>
 VINCI Airports is an airport concession holder and operator relying on its expertise in prime contractor services.  <br/> 
 <br/>
 We have the ability to understand quickly their activity and propose a custom-made strategic management tool to evaluate each operational decision that will impact the future growth of the company. Used by Operational directors for their daily monitoring and by the top management for the company valuation, this strategic management tool is now reviewed before any their decision-making.  <br/> 
- <br/> 
+<br/> 
 We worked on this project for several months and the end result was truly spectacular. By ensuring consistent and transparent communication, our client was able to progress by leaps and bounds."
       button:
         enable : false
@@ -80,7 +80,7 @@ We worked on this project for several months and the end result was truly specta
  <br/>
 Raising funds to develop their organization are the main concern for many entrepreneur from start-up to scale-up companies. The strategy and the vision of the founders must be reflected in the Fundraising business plan with the investor mindset, how much will they get back from their investment.  <br/> 
 <br/> 
-This business plan have been design to look and feel efficient and attractive.  
+This business plan have been design to look and feel efficient and attractive.   <br/>
 <br/> 
 Clients often approach ERNEST SONG with a general idea of what they need, and this project was no different. We were able to jump right in with our expertise and really helped the company grow and evolve. Today, their business is doing exceptionally well, and we’re proud to have been part of the process."
       button:
@@ -89,14 +89,14 @@ Clients often approach ERNEST SONG with a general idea of what they need, and th
         link : ""
         
     # service item loop
-    - title : "Business controlling management system"
+    - title : "Business Controlling Management System"
       images:
       - "images/service-3.png"
       content : "An Innovative Solution  <br/>
  <br/>
 Every organization must have an operating system to manage and lead their company. We have the ability to understand any business and financial processes to create a sustainable, focused and effective solution - and then watched it grow.  <br/> 
- <br/>
-The objective is to empowered your employees by focusing on tasks added-value and let the technology get rid off the recurrent and repetitive tasks.  
+<br/>
+The objective is to empowered your employees by focusing on tasks added-value and let the technology get rid off the recurrent and repetitive tasks.  <br/> 
 <br/> 
 We have developed a digital solution based on Business Intelligence to generate dynamic standard financial report updated in real-time. The reports are available on the cloud (Browser, mobile or tablet)."
       button:
