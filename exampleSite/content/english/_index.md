@@ -60,7 +60,9 @@ service:
     - title : "Operational Financial Modelling"
       images:
       - "images/service-1.png"
-      content : "A success story  <br/> VINCI Airports is an airport concession holder and operator relying on its expertise in prime contractor services.  <br/>We have the ability to understand quickly their activity and propose a custom-made strategic management tool to evaluate each operational decision that will impact the future growth of the company. <br/> Used by Operational directors for their daily monitoring and by the top management for the company valuation, this strategic management tool is now reviewed before any their decision-making. <br/> We worked on this project for several months and the end result was truly spectacular. By ensuring consistent and transparent communication, our client was able to progress by leaps and bounds."
+      content : "A success story  <br/>
+ <br/>
+VINCI Airports is an airport concession holder and operator relying on its expertise in prime contractor services.  <br/>We have the ability to understand quickly their activity and propose a custom-made strategic management tool to evaluate each operational decision that will impact the future growth of the company. <br/> Used by Operational directors for their daily monitoring and by the top management for the company valuation, this strategic management tool is now reviewed before any their decision-making. <br/> We worked on this project for several months and the end result was truly spectacular. By ensuring consistent and transparent communication, our client was able to progress by leaps and bounds."
       button:
         enable : false
         label : ""
