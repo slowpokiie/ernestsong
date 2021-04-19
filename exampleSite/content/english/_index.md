@@ -50,7 +50,7 @@ service:
     - title : "Our Projects"
       images:
       - ""
-      content : "ERNEST SONG helps all businesses not only reach, but exceed their goals. Our experience helps us lay out a strategy that perfectly fits our clients. This collaboration is essential for the successful transition from strategy, to plan, to action. Learn about some of our past projects below, and get in touch to see what we can do for you."
+      content : "ErnestSong helps all businesses not only reach, but exceed their goals. Our experience helps us lay out a strategy that perfectly fits our clients. This collaboration is essential for the successful transition from strategy, to plan, to action. Learn about some of our past projects below, and get in touch to see what we can do for you."
       button:
         enable : false
         label : ""
@@ -82,7 +82,7 @@ Raising funds to develop their organization are the main concern for many entrep
 <br/> 
 This business plan have been design to look and feel efficient and attractive.   <br/>
 <br/> 
-Clients often approach ERNEST SONG with a general idea of what they need, and this project was no different. We were able to jump right in with our expertise and really helped the company grow and evolve. Today, their business is doing exceptionally well, and we’re proud to have been part of the process."
+Clients often approach ErnestSong with a general idea of what they need, and this project was no different. We were able to jump right in with our expertise and really helped the company grow and evolve. Today, their business is doing exceptionally well, and we’re proud to have been part of the process."
       button:
         enable : false
         label : ""
@@ -115,11 +115,16 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Contact ErnestSong"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "Brussels, Belgium !
+    <br/> 
+    ernest.song@gmail.com  <br/> 
+    <br/> 
+    (+32) 476 60 05 90  <br/> 
+    "
   button:
     enable : true
-    label : "Contact Us"
+    label : "Contact ErnestSong"
     link : "contact"
 ---
