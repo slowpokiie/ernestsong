@@ -2,13 +2,9 @@ footer_left = []
 footer_middle = []
 footer_right = []
 [[main]]
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/ernestsong/"
-weight = ""
-[[main]]
 name = "Home"
-url = "/"
-weight = 1
+url = "https://ernestsong.netlify.app/"
+weight = ""
 [[main]]
 name = "Contact"
 url = "contact"
