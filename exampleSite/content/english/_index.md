@@ -118,7 +118,6 @@ call_to_action:
   title : "Contact ErnestSong"
   image : "images/cta.svg"
   content : "Brussels, Belgium  <br/> 
-    <br/>
     <br/> 
     ernest.song@gmail.com  <br/> 
     <br/> 
