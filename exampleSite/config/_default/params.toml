@@ -6,7 +6,7 @@ logo_width = "200px"
 social = []
 [navigation_button]
 enable = true
-label = "Get Started"
+label = "Contact Us"
 link = "contact"
 [preloader]
 enable = false
