@@ -57,14 +57,14 @@ service:
         link : ""
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Operational Financial Modelling"
       images:
       - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "A success story  <br/> VINCI Airports is an airport concession holder and operator relying on its expertise in prime contractor services.  <br/>We have the ability to understand quickly their activity and propose a custom-made strategic management tool to evaluate each operational decision that will impact the future growth of the company. <br/> Used by Operational directors for their daily monitoring and by the top management for the company valuation, this strategic management tool is now reviewed before any their decision-making. <br/> We worked on this project for several months and the end result was truly spectacular. By ensuring consistent and transparent communication, our client was able to progress by leaps and bounds."
       button:
-        enable : true
-        label : "Check it out"
-        link : "#"
+        enable : false
+        label : ""
+        link : ""
         
     # service item loop
     - title : "It’s a team of experienced and skilled people with distributions"
