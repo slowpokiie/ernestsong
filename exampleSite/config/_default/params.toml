@@ -3,6 +3,7 @@ contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "200px"
+social = []
 [navigation_button]
 enable = true
 label = "Get Started"
@@ -10,7 +11,3 @@ link = "contact"
 [preloader]
 enable = false
 preloader = ""
-[[social]]
-icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/ernestsong/"
-title = "linkedin"
