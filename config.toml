@@ -16,7 +16,7 @@ link = "plugins/turbolinks/turbolinks.js"
 [params.variables]
 black = "#000"
 body_color = "#fff"
-border_color = "#0AA8A7"
+border_color = "#ECECEC"
 icon_font = "Font Awesome 5 Free"
 light = "#EDF6F5"
 primary_color = "#ECECEC"
