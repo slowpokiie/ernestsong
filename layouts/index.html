@@ -10,7 +10,8 @@
         <p class="mb-4 text-justify">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <div><a href="{{ .link | safeURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a></div>
+        <div><a class="btn btn-primary mr-3 btn-zoom" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/ernest-song/30min'});return false;"
+                            href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">Contact Me</a></div>
         {{ end }}
         {{ end }}
 
@@ -183,7 +184,8 @@
         {{with .content }}<p class="mb-4">{{ . | markdownify }}</p>{{ end }}
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a>
+        <a class="btn btn-primary mr-3 btn-zoom" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/ernest-song/30min'});return false;"
+                            href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">Contact Me</a>
         {{ end }}
         {{ end }}
       </div>
