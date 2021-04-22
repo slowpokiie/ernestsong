@@ -7,7 +7,7 @@
     <div class="row">
       <div class="col-lg-10 mx-auto text-center">
         <h1 class="mb-3">{{ .title | markdownify }}</h1>
-        <p class="mb-4">{{ .content | markdownify }}</p>
+        <p class="mb-4 text-justify">{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
         <div><a href="{{ .link | safeURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a></div>
@@ -28,15 +28,16 @@
 <section class="section bg-light">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-12 text-center">
+      <div class="col-10 text-center">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <p class="mb-4 text-justify">{{ .text | markdownify }}</p>
       </div>
       {{ range .feature_item }}
       <div class="col-md-4 col-sm-6 mb-4">
         <div class="feature-card text-center">
           <i class="{{.icon}} mb-3"></i>
           <h4 class="mb-2">{{ .name | title }}</h4>
-          <p>{{ .content | markdownify }}</p>
+          <p class="text-justify">{{ .content | markdownify }}</p>
         </div>
       </div>
       {{ end }}
@@ -47,12 +48,26 @@
 {{ end }}
 <!-- /feature -->
 
+<!-- Block Our Projects -->
+{{ with .Params.projects }}
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-10 text-center">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <p class="mb-4 text-justify">{{ .content | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
 <!-- service -->
 {{ with .Params.service }}
 {{ if .enable }}
 {{ range $i,$p := .service_item }}
 {{if modBool $i 2}}
-<section class="section">
+<section class="section bg-light">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 order-2 order-md-1">
@@ -75,7 +90,7 @@
   </div>
 </section>
 {{ else }}
-<section class="section bg-light">
+<section class="section">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 mb-4 mb-md-0">
@@ -103,14 +118,48 @@
 {{ end }}
 <!-- /service -->
 
+<!-- Block Clients -->
+{{ with .Params.clients }}
+{{ if .enable }}
+{{ range $i,$p := .clients_item }}
+{{if modBool $i 2}}
+<section class="section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-12 order-2 order-md-1 text-center">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify }}</p>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn-link">{{ .label }} <i class="ti-arrow-right"></i></a>
+        {{ end }}
+        {{ end }}
+      </div>
+      <div class="col-lg-6 mx-auto text-center order-1 order-md-2 mb-4 mb-md-0">
+        <div {{if gt (len .images) 1}} class="slider" {{end}}>
+          {{ range .images }}
+          <img src="{{ . | relURL }}" alt="" class="img-fluid">
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}
+<!-- /Block Clients -->
+
 <!-- screenshot -->
 {{ with .Params.screenshot }}
 {{ if .enable }}
-<section class="section pb-0">
+<section>
   <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto text-center">
+    <div class="row justify-content-center">
+      <div class="col-12 text-center">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <p class="mb-4 text-justify">{{ .content | markdownify }}</p>
       </div>
     </div>
   </div>
@@ -124,7 +173,7 @@
 {{ with .Params.call_to_action }}
 {{ if .enable }}
 <section class="section">
-  <div class="container section shadow rounded-lg px-4">
+  <div class="container section shadow rounded-lg px-5">
     <div class="row align-items-center justify-content-center text-center text-md-left">
       <div class="col-lg-4 col-md-5 mb-4 mb-md-0">
         <img src="{{ .image | relURL }}" alt="" class="img-fluid">

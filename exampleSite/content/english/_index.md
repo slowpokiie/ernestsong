@@ -13,6 +13,10 @@ banner:
 feature:
   enable : true
   title : "Our Approach"
+  text : "Our strategic approach is to share our expertise in finance, strategy and management with an strong
+  IT sensitivity to support start-ups all along their journey, from scratch to scale-up.
+  We are a true believer of citizen developers and we are going to empower your employees. In this way,
+  we are helping your organization to reach your maximum potential."
   feature_item:
        
     # feature item loop
@@ -40,6 +44,12 @@ feature:
       •	Financial presentations <br/>
       •	Process Optimization <br/>
       •	Budgeting (Actuals vs. planned) <br/>"
+
+
+####################### Our Projects #########################
+projects:
+  title : "Our Projects"
+  content : "ErnestSong helps all businesses not only reach, but exceed their goals. Our experience helps us lay out a strategy that perfectly fits our clients. This collaboration is essential for the successful transition from strategy, to plan, to action. Learn about some of our past projects below, and get in touch to see what we can do for you."
       
       
 ######################### Service #####################
@@ -47,20 +57,10 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "Our Projects"
-      images:
-      - ""
-      content : "ErnestSong helps all businesses not only reach, but exceed their goals. Our experience helps us lay out a strategy that perfectly fits our clients. This collaboration is essential for the successful transition from strategy, to plan, to action. Learn about some of our past projects below, and get in touch to see what we can do for you."
-      button:
-        enable : false
-        label : ""
-        link : ""
-        
-    # service item loop
     - title : "Operational Financial Modelling"
       images:
       - "images/service-1.png"
-      content : "A success story  <br/>
+      content : "<h4>A success story</h4>  <br/>
 <br/>
 VINCI Airports is an airport concession holder and operator relying on its expertise in prime contractor services.  <br/> 
 <br/>
@@ -76,7 +76,7 @@ We worked on this project for several months and the end result was truly specta
     - title : "Fundraising Business Plan"
       images:
       - "images/service-2.png"
-      content : "Raising up to €10 million  <br/>
+      content : "<h4>Raising up to €10 million</h4>  <br/>
  <br/>
 Raising funds to develop their organization are the main concern for many entrepreneur from start-up to scale-up companies. The strategy and the vision of the founders must be reflected in the Fundraising business plan with the investor mindset, how much will they get back from their investment.  <br/> 
 <br/> 
@@ -92,7 +92,7 @@ Clients often approach ErnestSong with a general idea of what they need, and thi
     - title : "Business Controlling Management System"
       images:
       - "images/service-3.png"
-      content : "An Innovative Solution  <br/>
+      content : "<h4>An Innovative Solution</h4>  <br/>
  <br/>
 Every organization must have an operating system to manage and lead their company. We have the ability to understand any business and financial processes to create a sustainable, focused and effective solution - and then watched it grow.  <br/> 
 <br/>
@@ -107,10 +107,29 @@ We have developed a digital solution based on Business Intelligence to generate 
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Our Clients"
+  title : ""
   image : "images/screenshot.svg"
 
-  
+######################### Clients #####################
+clients:
+  enable : true
+  clients_item:
+    # service item loop
+    - title : "Our Clients"
+      images:
+      - "images/service-1.png"
+      - "images/service-2.png"
+      - "images/service-3.png"
+      - "images/service-1.png"
+      - "images/service-2.png"
+      - "images/service-3.png"
+      - "images/service-1.png"
+      - "images/service-2.png"
+      - "images/service-3.png"
+      - "images/service-1.png"
+      - "images/service-2.png"
+      - "images/service-3.png"
+      content : "Who we've worked with"
 
 ##################### Call to action #####################
 call_to_action:
