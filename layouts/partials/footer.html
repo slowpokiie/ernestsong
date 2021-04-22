@@ -66,4 +66,4 @@
 {{ $allscript := $allscript | resources.Concat "/js/vendor.js" | minify | fingerprint "sha512" }}
 <script src="{{ $allscript.RelPermalink }}" integrity="{{ $allscript.Data.Integrity }}"></script>
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/ernest-song/30min', text: 'Book a 30-min call', color: '#FF7B00', textColor: '#ffffff', branding: false }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/ernest-song/30min', text: 'Book a 30-min call', color: '#fcac45', textColor: '#ffffff', branding: false }); }</script>
