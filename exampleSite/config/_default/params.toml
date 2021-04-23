@@ -2,7 +2,7 @@ author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.png"
-logo_width = "200px"
+logo_width = "250px"
 social = []
 [navigation_button]
 enable = true
