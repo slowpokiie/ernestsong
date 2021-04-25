@@ -9,7 +9,7 @@ $(document).on('turbolinks:load', function () {
 
 	//slider
 	$('.slider').not('.slick-initialized').slick({
-		slidesToShow: 1,
+		slidesToShow: 4,
 		slidesToScroll: 1,
 		autoplay: true,
 		dots: true,
