@@ -15,5 +15,5 @@ preloader = ""
 ############################# social site ########################
 [[social]]
 title = "linkedin"
-icon = "fa-linkedin-square"
+icon = "fab fa-linkedin"
 link = "https://www.linkedin.com/in/ernestsong/"
