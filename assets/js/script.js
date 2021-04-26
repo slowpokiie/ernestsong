@@ -1,7 +1,7 @@
 $(document).on('turbolinks:load', function () {
 	'use strict';
 	
-	// prelaoder
+	// preloader
 	$('.preloader').delay(100).fadeOut(10);
 
 	// re initialize bootstrap dropdown for turbolinks
