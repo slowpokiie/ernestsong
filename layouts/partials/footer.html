@@ -7,8 +7,7 @@
         <ul class="list-unstyled footer-list">
           {{ range site.Menus.footer_left }}
           <li>
-            <i class="{{ .Icon }}"></i>
-            <a href="{{ .URL | relLangURL }}" title="{{ .Name }}">{{ .Name }}</a>
+            <a href="{{ .URL | relLangURL }}" title="{{ .Name }}"><i class="{{ .icon }}"></i>{{ .Name }}</a>
           </li>
           {{ end }}
         </ul>
