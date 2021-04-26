@@ -10,12 +10,11 @@ $(document).on('turbolinks:load', function () {
 	//slider
 	$('.slider').not('.slick-initialized').slick({
 		slidesToShow: 4,
-		slidesToScroll: 4,
+		slidesToScroll: 1,
 		autoplay: true,
 		dots: true,
 		arrows: false,
-		infinite: true,
-		lazyLoad: "ondemand"
+		infinite: true
 	});
 
 })(jQuery);
