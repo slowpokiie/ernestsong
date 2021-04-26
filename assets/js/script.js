@@ -13,8 +13,7 @@ $(document).on('turbolinks:load', function () {
 		slidesToScroll: 1,
 		autoplay: true,
 		dots: true,
-		arrows: false,
-		infinite: true
+		arrows: false
 	});
 
 })(jQuery);
