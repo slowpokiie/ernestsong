@@ -7,15 +7,15 @@ url = "https://ernestsong.netlify.app/"
 weight = "1"
 [[main]]
 name = "Approach"
-url = "approach"
+url = "#approach"
 weight = "2"
 [[main]]
 name = "Projects"
-url = "projects"
+url = "#projects"
 weight = "3"
 [[main]]
 name = "Clients"
-url = "clients"
+url = "#clients"
 weight = "4"
 [[main]]
 name = "Contact"
