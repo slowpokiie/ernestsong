@@ -24,6 +24,14 @@ weight = "5"
 name = "ernest.song@gmail.com"
 url = "#"
 
+[[footer_left]]
+name = "+(32) 476 60 05 90"
+url = "#"
+
+[[footer_left]]
+name = "Brussels, Belgium"
+url = "#"
+
 # footer menu middle
 [[footer_middle]]
 name = "+(32) 476 60 05 90"
