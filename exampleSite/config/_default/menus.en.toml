@@ -36,11 +36,11 @@ icon = "fas fa-phone"
 url = "#"
 
 # footer menu middle
-[[footer_middle]]
-name = ""
-url = "#"
+# [[footer_middle]]
+# name = ""
+# url = "#"
 
 # footer menu right
-[[footer_right]]
-name = ""
-url = "#"
+# [[footer_right]]
+# name = ""
+# url = "#"
