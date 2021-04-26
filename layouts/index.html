@@ -140,7 +140,7 @@
         <div {{if gt (len .images) 1}} class="slider col-lg-12 mx-auto" {{end}}>
           {{ range .images }}
           <div class="client-logo mx-auto align-middle">
-            <img src="{{ . | relURL }}" alt="client-logo">
+            <img class="mx-auto" src="{{ . | relURL }}" alt="client-logo">
           </div>    
           {{ end }}
         </div>
