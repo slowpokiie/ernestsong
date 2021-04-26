@@ -119,17 +119,17 @@ clients:
     # service item loop
     - title : "Our Clients"
       images:
-      - "images/service-1.png"
-      - "images/service-2.svg"
-      - "images/service-3.png"
       - "images/service-4.png"
-      - "images/service-5.png"
+      - "images/service-5.svg"
       - "images/service-6.png"
       - "images/service-7.png"
       - "images/service-8.png"
       - "images/service-9.png"
-      - "images/service-10.jpg"
+      - "images/service-10.png"
       - "images/service-11.png"
       - "images/service-12.png"
+      - "images/service-13.jpg"
+      - "images/service-14.png"
+      - "images/service-15.png"
       content : "Who we've worked with"
 ---
