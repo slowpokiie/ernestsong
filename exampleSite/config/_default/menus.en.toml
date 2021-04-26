@@ -22,7 +22,7 @@ weight = "5"
 # footer menu left
 [[footer_left]]
 name = "Brussels, Belgium"
-icon = "fas fa-home"
+icon = "fab fa-linkedin"
 url = "#"
 
 [[footer_left]]
