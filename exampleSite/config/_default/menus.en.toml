@@ -34,3 +34,8 @@ url = "#"
 name = "+(32) 476 60 05 90"
 icon = "fas fa-phone"
 url = "#"
+
+[[footer_left]]
+name = "VAT BE0766.646.824"
+icon = "fas fa-entreprise"
+url = "#"
