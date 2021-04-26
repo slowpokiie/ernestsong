@@ -26,6 +26,12 @@ text_color = "#777"
 text_color_dark = "#222"
 white = "#fff"
 
+[params.address]
+address = "Brussels, Belgium"
+email = "ernest.song@gmail.com"
+openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
+phone = "+(32) 476 60 05 90"
+
 # Social icons
 [[params.social]]
 icon = "fa-linkedin-square"
