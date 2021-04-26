@@ -11,3 +11,9 @@ link = "contact"
 [preloader]
 enable = false
 preloader = ""
+
+############################# social site ########################
+[[social]]
+title = "linkedin"
+icon = "fab fa-linkedin"
+link = "#"
