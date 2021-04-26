@@ -10,7 +10,7 @@ $(document).on('turbolinks:load', function () {
 	//slider
 	$('.slider').not('.slick-initialized').slick({
 		slidesToShow: 4,
-		slidesToScroll: 1,
+		slidesToScroll: 4,
 		autoplay: true,
 		dots: true,
 		arrows: false,
