@@ -3,7 +3,6 @@ contact_form_action = "#"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "250px"
-social = []
 [navigation_button]
 enable = true
 label = "Contact Us"
@@ -11,7 +10,6 @@ link = "contact"
 [preloader]
 enable = false
 preloader = ""
-
 
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
