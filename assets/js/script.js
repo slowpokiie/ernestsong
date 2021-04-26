@@ -11,9 +11,11 @@ $(document).on('turbolinks:load', function () {
 	$('.slider').not('.slick-initialized').slick({
 		slidesToShow: 4,
 		slidesToScroll: 1,
-		autoplay: false,
+		autoplay: true,
 		dots: true,
-		arrows: false
+		arrows: false,
+		infinite: true,
+		lazyLoad: "ondemand"
 	});
 
 })(jQuery);
