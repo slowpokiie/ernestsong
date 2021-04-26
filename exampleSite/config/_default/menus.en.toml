@@ -21,23 +21,26 @@ weight = "5"
 
 # footer menu left
 [[footer_left]]
+name = "Brussels, Belgium"
+icon = "fas fa-home"
+url = "#"
+
+[[footer_left]]
 name = "ernest.song@gmail.com"
+icon = "far fa-envelope"
 url = "#"
 
 [[footer_left]]
 name = "+(32) 476 60 05 90"
-url = "#"
-
-[[footer_left]]
-name = "Brussels, Belgium"
+icon = "fas fa-phone"
 url = "#"
 
 # footer menu middle
 [[footer_middle]]
-name = "+(32) 476 60 05 90"
+name = ""
 url = "#"
 
 # footer menu right
 [[footer_right]]
-name = "Brussels, Belgium"
+name = ""
 url = "#"

@@ -16,7 +16,10 @@
         <div class="h3 mb-4">{{ site.Params.footer_menu_middle }}</div>
         <ul class="list-unstyled footer-list">
           {{ range site.Menus.footer_middle }}
-          <li><a href="{{ .URL | relLangURL }}" title="{{ .Name }}">{{ .Name }}</a></li>
+          <li>
+            <i class="{{ .Icon }}"></i>
+            <a href="{{ .URL | relLangURL }}" title="{{ .Name }}">{{ .Name }}</a>
+          </li>
           {{ end }}
         </ul>
         {{ end }}
