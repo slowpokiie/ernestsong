@@ -61,12 +61,12 @@ service:
       images:
       - "images/service-1.png"
       content : "<h4>A success story</h4>  <br/>
-<br/>
-VINCI Airports is an airport concession holder and operator relying on its expertise in prime contractor services.  <br/> 
-<br/>
-Ernest Song have the ability to understand quickly their activity and propose a custom-made strategic management tool to evaluate each operational decision that will impact the future growth of the company. Used by Operational directors for their daily monitoring and by the top management for the company valuation, this strategic management tool is now reviewed before any their decision-making.  <br/> 
-<br/> 
-Ernest worked on this project for several months and the end result was truly spectacular. By ensuring consistent and transparent communication, Vinci was able to progress by leaps and bounds."
+      <br/>
+      VINCI Airports is an airport concession holder and operator relying on its expertise in prime contractor services.  <br/> 
+      <br/>
+      Ernest Song have the ability to understand quickly their activity and propose a custom-made strategic management tool to evaluate each operational decision that will impact the future growth of the company. Used by Operational directors for their daily monitoring and by the top management for the company valuation, this strategic management tool is now reviewed before any their decision-making.  <br/> 
+      <br/> 
+      Ernest worked on this project for several months and the end result was truly spectacular. By ensuring consistent and transparent communication, Vinci was able to progress by leaps and bounds."
       button:
         enable : false
         label : ""
@@ -77,14 +77,14 @@ Ernest worked on this project for several months and the end result was truly sp
       images:
       - "images/service-2.png"
       content : "<h4>Raising up to €10 million</h4>  <br/>
-<br/>
-Magnetrap is a start-up in medical technology focusing on providing a point of care device to detect the presence of COVID-19 and Malaria.  <br/> 
-<br/>
-Raising funds to develop their organization are the main concern for many entrepreneur from start-up to scale-up companies. The strategy and the vision of the founders must be reflected in the Fundraising business plan with the investor mindset, how much will they get back from their investment.  <br/> 
-<br/> 
-This business plan have been design in collaboration with the founder to look and feel efficient, attractive and professionnal.  <br/>
-<br/> 
-Clients often approach Ernest Song with a general idea of what they need, and this project was no different. Ernest were able to jump right in with his expertise and really helped the company grow and evolve. Today, their business is doing exceptionally well, and he is proud to have been part of the process."
+      <br/>
+      Magnetrap is a start-up in medical technology focusing on providing a point of care device to detect the presence of COVID-19 and Malaria.  <br/> 
+      <br/>
+      Raising funds to develop their organization are the main concern for many entrepreneur from start-up to scale-up companies. The strategy and the vision of the founders must be reflected in the Fundraising business plan with the investor mindset, how much will they get back from their investment.  <br/> 
+      <br/> 
+      This business plan have been design in collaboration with the founder to look and feel efficient, attractive and professionnal.  <br/>
+      <br/> 
+      Clients often approach Ernest Song with a general idea of what they need, and this project was no different. Ernest were able to jump right in with his expertise and really helped the company grow and evolve. Today, their business is doing exceptionally well, and he is proud to have been part of the process."
       button:
         enable : false
         label : ""
@@ -95,12 +95,12 @@ Clients often approach Ernest Song with a general idea of what they need, and th
       images:
       - "images/service-3.png"
       content : "<h4>An Innovative Solution</h4>  <br/>
- <br/>
-Every organization must have an operating system to manage and lead their company. Ernest Song have the ability to understand any business and financial processes to create a sustainable, focused and effective solution - and then watched it grow.  <br/> 
-<br/>
-The objective is to empowered your employees by focusing on tasks added-value and let the technology get rid off the recurrent and repetitive tasks.  <br/> 
-<br/> 
-Ernest have developed a digital solution based on Business Intelligence to generate dynamic standard financial report updated in real-time. The reports are available on the cloud (Browser, mobile or tablet)."
+      <br/>
+      Every organization must have an operating system to manage and lead their company. Ernest Song have the ability to understand any business and financial processes to create a sustainable, focused and effective solution - and then watched it grow.  <br/> 
+      <br/>
+      The objective is to empowered your employees by focusing on tasks added-value and let the technology get rid off the recurrent and repetitive tasks.  <br/> 
+      <br/> 
+      Ernest have developed a digital solution based on Business Intelligence to generate dynamic standard financial report updated in real-time. The reports are available on the cloud (Browser, mobile or tablet)."
       button:
         enable : false
         label : ""
