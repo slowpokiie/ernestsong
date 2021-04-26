@@ -25,3 +25,9 @@ primary_font_type = "sans-serif"
 text_color = "#777"
 text_color_dark = "#222"
 white = "#fff"
+
+# Social icons
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/ernestsong/"
+weight = 1
