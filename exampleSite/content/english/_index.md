@@ -120,7 +120,7 @@ clients:
     - title : "Our Clients"
       images:
       - "images/service-4.png"
-      - "images/service-5.svg"
+      - "images/service-5.png"
       - "images/service-6.png"
       - "images/service-7.png"
       - "images/service-8.png"
@@ -128,7 +128,7 @@ clients:
       - "images/service-10.png"
       - "images/service-11.png"
       - "images/service-12.png"
-      - "images/service-13.jpg"
+      - "images/service-13.png"
       - "images/service-14.png"
       - "images/service-15.png"
       content : "Who we've worked with"
