@@ -2,6 +2,7 @@ author = "Ernest Song"
 contact_form_action = "#"
 description = "Ernest is Finance Executive Advisor specialized in Finance modeling and Business controlling."
 logo = "images/logo.png"
+favicon = "images/favicon.png"
 logo_width = "250px"
 [navigation_button]
 enable = true
