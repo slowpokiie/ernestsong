@@ -61,11 +61,8 @@ service:
       images:
       - "images/service-1.png"
       content : "<h4>A success story</h4>  <br/>
-      <br/>
-      <p>VINCI Airports is an airport concession holder and operator relying on its expertise in prime contractor services.</p><br/> 
-      <br/>
-      <p>Ernest Song have the ability to understand quickly their activity and propose a custom-made strategic management tool to evaluate each operational decision that will impact the future growth of the company. Used by Operational directors for their daily monitoring and by the top management for the company valuation, this strategic management tool is now reviewed before any their decision-making.</p><br/> 
-      <br/> 
+      <p>VINCI Airports is an airport concession holder and operator relying on its expertise in prime contractor services.</p>
+      <p>Ernest Song have the ability to understand quickly their activity and propose a custom-made strategic management tool to evaluate each operational decision that will impact the future growth of the company. Used by Operational directors for their daily monitoring and by the top management for the company valuation, this strategic management tool is now reviewed before any their decision-making.</p>
       <p>Ernest worked on this project for several months and the end result was truly spectacular. By ensuring consistent and transparent communication, Vinci was able to progress by leaps and bounds.</p>"
       button:
         enable : false
@@ -76,14 +73,10 @@ service:
     - title : "Fundraising Business Plan"
       images:
       - "images/service-2.png"
-      content : "<h4>Raising up to €10 million</h4>  <br/>
-      <br/>
-      <p>Magnetrap is a start-up in medical technology focusing on providing a point of care device to detect the presence of COVID-19 and Malaria.</p><br/> 
-      <br/>
-      <p>Raising funds to develop their organization are the main concern for many entrepreneur from start-up to scale-up companies. The strategy and the vision of the founders must be reflected in the Fundraising business plan with the investor mindset, how much will they get back from their investment.</p><br/> 
-      <br/> 
-      <p>This business plan have been design in collaboration with the founder to look and feel efficient, attractive and professionnal.</p><br/>
-      <br/> 
+      content : "<h4>Raising up to €10 million</h4><br/>
+      <p>Magnetrap is a start-up in medical technology focusing on providing a point of care device to detect the presence of COVID-19 and Malaria.</p>
+      <p>Raising funds to develop their organization are the main concern for many entrepreneur from start-up to scale-up companies. The strategy and the vision of the founders must be reflected in the Fundraising business plan with the investor mindset, how much will they get back from their investment.</p>
+      <p>This business plan have been design in collaboration with the founder to look and feel efficient, attractive and professionnal.</p>
       <p>Clients often approach Ernest Song with a general idea of what they need, and this project was no different. Ernest were able to jump right in with his expertise and really helped the company grow and evolve. Today, their business is doing exceptionally well, and he is proud to have been part of the process.</p>"
       button:
         enable : false
@@ -95,11 +88,8 @@ service:
       images:
       - "images/service-3.png"
       content : "<h4>An Innovative Solution</h4>  <br/>
-      <br/>
-      <p>Every organization must have an operating system to manage and lead their company. Ernest Song have the ability to understand any business and financial processes to create a sustainable, focused and effective solution - and then watched it grow.</p><br/> 
-      <br/>
-      <p>The objective is to empowered your employees by focusing on tasks added-value and let the technology get rid off the recurrent and repetitive tasks.</p><br/> 
-      <br/> 
+      <p>Every organization must have an operating system to manage and lead their company. Ernest Song have the ability to understand any business and financial processes to create a sustainable, focused and effective solution - and then watched it grow.</p>
+      <p>The objective is to empowered your employees by focusing on tasks added-value and let the technology get rid off the recurrent and repetitive tasks.</p> 
       <p>Ernest have developed a digital solution based on Business Intelligence to generate dynamic standard financial report updated in real-time. The reports are available on the cloud (Browser, mobile or tablet).</p>"
       button:
         enable : false
