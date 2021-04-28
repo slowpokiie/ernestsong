@@ -18,8 +18,8 @@
 <meta property="og:title" content="{{ .Site.Title }}"/>
 <meta property="og:description" content="{{ .Site.Params.description }}"/>
 <meta property="og:site_name" content="{{ .Site.Title }}"/>
-<meta property="og:url" content="{{ .Site.BaseURL }}"/>
+<meta property="og:url" content="{{ .Site.Params.url }}"/>
 <meta property="og:locale" content="en">
-{{ template "_internal/opengraph.html" . }}
+<!--{{ template "_internal/opengraph.html" . }}-->
 {{ template "_internal/google_analytics_async.html" . }}
 {{ site.Params.custom_script | safeHTML }}
