@@ -3,7 +3,7 @@
 banner:
   title : "CFO-As-A-Service"
   image : "images/banner-art.svg"
-  content : "TEST Ernest Song is a Finance Executive Advisor specializing in Financial modeling and Business controlling. He is a French native with a background in Corporate finance, Auditing, Controlling and is certified from ESCP Business School. Ernest works alongside investors & business owners across all aspect of their developments. Through the pairing of a strong finance and business expertise alongside his high sensitivity in digital and IT systems, his clients are provided a true, full-service experience in Belgium."
+  content : "Ernest Song is a Finance Executive Advisor specializing in Financial modeling and Business controlling. He is a French native with a background in Corporate finance, Auditing, Controlling and is certified from ESCP Business School. Ernest works alongside investors & business owners across all aspect of their developments. Through the pairing of a strong finance and business expertise alongside his high sensitivity in digital and IT systems, his clients are provided a true, full-service experience in Belgium."
   button:
     enable : true
     label : "Book a 30-min call"
