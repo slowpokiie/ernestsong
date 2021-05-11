@@ -1,5 +1,6 @@
 baseURL = "https://ernestsong.com"
 disqusShortname = ""
+enableRobotsTXT = true
 googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
