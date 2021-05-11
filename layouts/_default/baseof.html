@@ -18,6 +18,15 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-TR5KTXN');</script>
 	<!-- End Google Tag Manager -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-2LKZKC7QDX"></script>
+	<script>
+ 	 window.dataLayer = window.dataLayer || [];
+ 	 function gtag(){dataLayer.push(arguments);}
+ 	 gtag('js', new Date());
+
+  	gtag('config', 'G-2LKZKC7QDX');
+	</script>
 	{{ partial "head.html" . }}
 	{{ partialCached "style.html" . }}
 	<base href="{{ .Site.BaseURL }}">
